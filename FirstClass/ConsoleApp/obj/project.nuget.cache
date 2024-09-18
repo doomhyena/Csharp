@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkrKdIPf2+PjEnyPhUQa9WimKwSM4H9zI3A/zx1t/DKFke0tZC5GCY+bAWlpLyxJaCwnHu8W2qUGAtwCKCnDFg==",
+  "success": true,
+  "projectFilePath": "/home/doomhyena/Dokumentumok/GitHub/Csharp-alapok/FirstClass/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/doomhyena/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

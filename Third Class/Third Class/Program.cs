@@ -10,12 +10,20 @@ namespace Third_Class
     {
         static void Main(string[] args)
         {
-            static int Glassic(int a, int b) { 
-            
-            
-            }
-
+            int a =0; 
+            int b = 0;
             Console.ReadKey();
+        }
+
+        static int osszead(int a, int b)
+        {
+            Console.WriteLine(a + b);
+            return a + b;
+        }
+        static double osszead(double a, double b)
+        {
+            Console.WriteLine(a + b);
+            return a + b;
         }
     }
 }

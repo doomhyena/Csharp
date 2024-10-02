@@ -8,13 +8,28 @@ namespace Third_Class
 {
     internal class Program
     {
+        static Random rnd = new Random();
         static void Main(string[] args)
         {
-            int a =0; 
-            int b = 0;
-            Console.ReadKey();
-        }
 
+            int[] tomb = TombGenerator(100);
+
+            Console.WriteLine("--VÉGE--");
+            Console.ReadKey();
+
+        }
+        private static int[] TombGenrator(int v)
+        {
+            int[] res = new int[v];
+            for (int i = 0; i < res.Length; i++)
+            {
+                res[i] = rnd.Next(); 
+            }
+            return res;
+        }
+        /*
+         
+        
         static int osszead(int a, int b)
         {
             Console.WriteLine(a + b);
@@ -24,6 +39,8 @@ namespace Third_Class
         {
             Console.WriteLine(a + b);
             return a + b;
-        }
+        } 
+         
+         */
     }
-}
+} // shutdown -i

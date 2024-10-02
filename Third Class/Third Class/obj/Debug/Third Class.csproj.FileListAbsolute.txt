@@ -1,0 +1,7 @@
+C:\Users\Tanuló\source\repos\Third Class\Third Class\bin\Debug\Third Class.exe.config
+C:\Users\Tanuló\source\repos\Third Class\Third Class\bin\Debug\Third Class.exe
+C:\Users\Tanuló\source\repos\Third Class\Third Class\bin\Debug\Third Class.pdb
+C:\Users\Tanuló\source\repos\Third Class\Third Class\obj\Debug\Third Class.csproj.AssemblyReference.cache
+C:\Users\Tanuló\source\repos\Third Class\Third Class\obj\Debug\Third Class.csproj.CoreCompileInputs.cache
+C:\Users\Tanuló\source\repos\Third Class\Third Class\obj\Debug\Third Class.exe
+C:\Users\Tanuló\source\repos\Third Class\Third Class\obj\Debug\Third Class.pdb
